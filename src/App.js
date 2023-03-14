@@ -1,4 +1,4 @@
-// dummy line for repo integrity check
+
 import Expenses from "./components/Expenses";
 function App() {
   // array containing dummy expense objects
