@@ -1,4 +1,5 @@
 
+import React from "react";
 import Expenses from "./components/Expenses";
 function App() {
   // array containing dummy expense objects
